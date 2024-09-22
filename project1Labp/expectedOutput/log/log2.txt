@@ -1,0 +1,17 @@
+>> Log from purchase 1
+Purchase successful: Pedro bought Harry Potter and the Philosopher's Stone by J.K. Rowling, price: $39.99
+Book not found: Pedro asked for Harry Potter and the Half-Blood Prince
+Purchase successful: Maria bought The Lord of the Rings by J.R.R. Tolkien, price: $24.99
+Book out of stock: Manuel asked for The Lord of the Rings by J.R.R. Tolkien, price: $24.99
+Book out of stock: Joaquim asked for The Lord of the Rings by J.R.R. Tolkien, price: $24.99
+Total: $64.98 [$58.62]
+
+>> Log from purchase 2
+Purchase successful: Pedro bought The Great Gatsby by F. Scott Fitzgerald, price: $12.99
+Purchase successful: Maria bought To Kill a Mockingbird by Harper Lee, price: $14.99
+Purchase successful: Manuel bought To Kill a Mockingbird by Harper Lee, price: $14.99
+Book out of stock: Joaquim asked for To Kill a Mockingbird by Harper Lee, price: $14.99
+Total: $42.97 [$38.53]
+
+Revenue: $107.95
+Profit: $97.16

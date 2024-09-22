@@ -1,0 +1,34 @@
+>> Log from purchase 1
+Purchase successful: Pedro bought Harry Potter and the Philosopher's Stone by J.K. Rowling, price: $14.99
+Book not found: Pedro asked for Harry Potter and the Half-Blood Prince
+Book not found: Maria asked for 978054792821-0
+Book not found: Manuel asked for 978054792821-0
+Book not found: Joaquim asked for 978054792821-0
+Total: $14.99 [$12.67]
+
+>> Log from purchase 2
+Purchase successful: Pedro bought The Great Gatsby by F. Scott Fitzgerald, price: $7.99
+Purchase successful: Maria bought To Kill a Mockingbird by Harper Lee, price: $12.99
+Purchase successful: Manuel bought To Kill a Mockingbird by Harper Lee, price: $12.99
+Purchase successful: Joaquim bought To Kill a Mockingbird by Harper Lee, price: $12.99
+Total: $46.96 [$42.30]
+
+>> Log from purchase 3
+Purchase successful: Emily Chen bought Pride and Prejudice by Jane Austen, price: $10.99
+Purchase successful: Sam Johnson bought Pride and Prejudice by Jane Austen, price: $10.99
+Purchase successful: Olivia Davis bought 1984 by George Orwell, price: $8.99
+Purchase successful: Liam Rodriguez bought To Kill a Mockingbird by Harper Lee, price: $12.99
+Purchase successful: Avery Brown bought The Catcher in the Rye by J.D. Salinger, price: $6.99
+Purchase successful: Nathan Wilson bought The Lord of the Rings by J.R.R. Tolkien, price: $15.99
+Purchase successful: Grace Lee bought The Lord of the Rings by J.R.R. Tolkien, price: $15.99
+Purchase successful: Ethan Kim bought The Hobbit by J.R.R. Tolkien, price: $11.99
+Purchase successful: Aria Hernandez bought The Hobbit by J.R.R. Tolkien, price: $11.99
+Purchase successful: Aiden Martin bought The Da Vinci Code by Dan Brown, price: $7.99
+Purchase successful: Mia Thompson bought The Girl with the Dragon Tattoo by Stieg Larsson, price: $12.99
+Purchase successful: Emma Garcia bought Harry Potter and the Philosopher's Stone by J.K. Rowling, price: $14.99
+Purchase successful: Noah Perez bought Harry Potter and the Philosopher's Stone by J.K. Rowling, price: $14.99
+Purchase successful: Isabella Kim bought Gone Girl by Gillian Flynn, price: $10.99
+Total: $168.86 [$149.50]
+
+Revenue: $230.81
+Profit: $204.46

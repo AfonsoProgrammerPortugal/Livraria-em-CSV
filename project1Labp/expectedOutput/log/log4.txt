@@ -1,0 +1,34 @@
+>> Log from purchase 1
+Book not found: Pedro asked for Harry Potter and the Philosopher's Stone
+Book not found: Pedro asked for Harry Potter and the Half-Blood Prince
+Book not found: Maria asked for 978054792821-0
+Book not found: Manuel asked for 978054792821-0
+Book not found: Joaquim asked for 978054792821-0
+Total: $0.00 [$0.00]
+
+>> Log from purchase 2
+Purchase successful: Pedro bought The Great Gatsby by F. Scott Fitzgerald, price: $7.99
+Purchase successful: Maria bought To Kill a Mockingbird by Harper Lee, price: $12.99
+Purchase successful: Manuel bought To Kill a Mockingbird by Harper Lee, price: $12.99
+Purchase successful: Joaquim bought To Kill a Mockingbird by Harper Lee, price: $12.99
+Total: $46.96 [$42.30]
+
+>> Log from purchase 3
+Purchase successful: Emily Chen bought Pride and Prejudice by Jane Austen, price: $10.99
+Purchase successful: Sam Johnson bought Pride and Prejudice by Jane Austen, price: $10.99
+Purchase successful: Olivia Davis bought 1984 by George Orwell, price: $8.99
+Purchase successful: Liam Rodriguez bought To Kill a Mockingbird by Harper Lee, price: $12.99
+Purchase successful: Avery Brown bought The Catcher in the Rye by J.D. Salinger, price: $6.99
+Book not found: Nathan Wilson asked for The Lord of the Rings
+Book not found: Grace Lee asked for 978061864015-7
+Book not found: Ethan Kim asked for The Hobbit
+Book not found: Aria Hernandez asked for 978054792822-7
+Book not found: Aiden Martin asked for The Da Vinci Code
+Book not found: Mia Thompson asked for 978030726975-1
+Book not found: Emma Garcia asked for Harry Potter and the Philosopher's Stone
+Book not found: Noah Perez asked for 978140885565-2
+Book not found: Isabella Kim asked for Gone Girl
+Total: $50.95 [$46.25]
+
+Revenue: $97.91
+Profit: $88.55
